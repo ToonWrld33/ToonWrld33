@@ -27,7 +27,9 @@
 
 - 🍍 **[PineappleOS-Toolkit](https://github.com/ToonWrld33/PineappleOS-Toolkit)**  
   A terminal-based toolkit explicitly designed for WiFi penetration testing, network reconnaissance, and security automation using DIY WiFi Pineapple clones.
-
+- 🌀 **[Evil Portals WiFi Pineapple](https://github.com/ToonWrld33/Evil-Portals-WiFi-Pineapple)** 
+A plug-and-play collection of realistic captive portals and a detailed guide for creating custom Evil Portals—perfect for ethical WiFi security tests inspired by the "Hooli-Con" hack from *Silicon Valley*!
+  
 ---
 
 ⚠ **Ethical Disclaimer:**  
