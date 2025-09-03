@@ -6,6 +6,7 @@
 ---
 
 ### 🔑 **Certifications**
+- ✅ CompTIA A+
 - ✅ CompTIA Network+
 - ✅ CompTIA Security+
 - ⏳ CompTIA Linux+ (In Progress)
@@ -29,6 +30,9 @@
 
 - 📐 **[Active-Directory-Lab-Blueprint](https://github.com/ToonWrld33/Active-Directory-Lab-Blueprint)**  
   A full step-by-step blueprint to build an Active Directory home lab in VirtualBox — including setup, domain controller configuration, client join, OU/GPO tasks, and PowerShell automation.
+
+- 🐉 **[Kali-Lab-Blueprint](https://github.com/ToonWrld33/Kali-Lab-Blueprint)**  
+  A comprehensive guide for setting up and customizing Kali Linux in VirtualBox — covering installation, post-install configuration, networking, package management, and user management.
 
 - 🍍 **[PineappleOS-Toolkit](https://github.com/ToonWrld33/PineappleOS-Toolkit)**  
   A terminal-based toolkit explicitly designed for WiFi penetration testing, network reconnaissance, and security automation using DIY WiFi Pineapple clones.
